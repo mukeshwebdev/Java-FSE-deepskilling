@@ -1,26 +1,7 @@
-# 🔧 My Hands-On Practice Repository
+# Digital Nurture Program 4.0 Java FSE Weekly Submissions
 
-Welcome to my hands-on practice repository! This space is dedicated to exploring, learning, and experimenting with various technologies, tools, and programming concepts.
+Name:Mukesh Kannan V
+Superset ID:
+Email : mukeshkannanv0@gmail.com
 
-## 📁 Project Purpose
-
-This repository is created as a sandbox environment to:
-- Practice coding skills
-- Experiment with new technologies
-- Build small-scale prototypes
-- Document the learning process
-
-## 🛠️ Technologies Used
-
-Depending on the project(s) I work on here, I may use:
-- Python / Java / JavaScript / C++
-- Flask / Django / Node.js
-- HTML / CSS / Tailwind / Bootstrap
-- MySQL / MongoDB
-- TensorFlow / MediaPipe / OpenCV
-- Git / GitHub
-
-> *This list will be updated based on ongoing work.*
-
-## 📂 Structure
 
